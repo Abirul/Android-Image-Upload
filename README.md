@@ -5,7 +5,8 @@
 `implementation 'dev.dworks.libs:volleyplus:+'`
 
 
-`public class MainActivity extends AppCompatActivity {
+`
+public class MainActivity extends AppCompatActivity {
 
     Button browse,submit;
     ImageView img;
