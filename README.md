@@ -2,7 +2,8 @@
 
 *Libary*
 
-`implementation 'dev.dworks.libs:volleyplus:+'`
+`implementation 'dev.dworks.libs:volleyplus:+'
+implementation 'com.karumi:dexter:6.2.1'`
 
 
 `
